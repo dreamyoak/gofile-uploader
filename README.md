@@ -4,9 +4,9 @@ This is a Python script that allows users to upload a file to the Gofile.io file
 
 ## Usage
 
-1. Clone the repository or download the `file_uploader.py` file.
+1. Clone the repository or download the `main.py` file.
 2. Open the command prompt and navigate to the directory where the script is located.
-3. Run the script using the command `python file_uploader.py`.
+3. Run the script using the command `python main.py`.
 4. Enter the full file path of the file you want to upload.
 5. If the path is valid, the script will upload the file and print the download URL.
 6. If the path is invalid, the script will print an error message and prompt you to enter a new path.
